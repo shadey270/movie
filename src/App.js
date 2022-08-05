@@ -27,7 +27,7 @@ const searchMovies = async (title) => {
   }, [])
   return (
     <div className="app">
-      <h1>Movie Land</h1>
+      <h1>Movie Arena</h1>
       <div className= 'search'>
         <input 
           placeholder='search for movies'
